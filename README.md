@@ -2,7 +2,7 @@
 
 ## Download
 
-We use Black Square version as our default logo.
+We use Black Circle version as our default logo.
 
 | Background   | 400 DPI PNG | 1200 DPI PNG | [Inkscape][inkscape] SVG | SVG       | PostScript EPS |
 | ------------ | ----------- | ------------ | ------------------------ | --------- | -------------- |

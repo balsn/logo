@@ -1,16 +1,17 @@
 # Balsn Logo
 
-- Font: [Audiowide Regular](Audiowide-Regular.ttf)
+- Font: [Audiowide Regular][Audiowide-Regular.ttf]
 - Background color: `#FFFFFF`
 - Foreground color: `#B5E853`
 
-| Background   | 400 DPI PNG | 1200 DPI PNG | [Inkscape](inkscape) SVG | SVG       | PostScript EPS |
+| Background   | 400 DPI PNG | 1200 DPI PNG | [Inkscape][inkscape] SVG | SVG       | PostScript EPS |
 | ------------ | ----------- | ------------ | ------------------------ | --------- | -------------- |
-| Black Circle | [Link](1)   | [Link](2)    | [Link](3)                | [Link](4) | [Link](5)      |
-| Black Square | [Link](6)   | [Link](7)    | [Link](8)                | [Link](9) | [Link](10)      |
-| Transparent  | [Link](11)   | [Link](12)    | [Link](13)                | [Link](14) | [Link](15)      |
+| Black Circle | [Link][1]   | [Link][2]    | [Link][3]                | [Link][4] | [Link][5]      |
+| Black Square | [Link][6]   | [Link][7]    | [Link][8]                | [Link][9] | [Link][10]      |
+| Transparent  | [Link][11]   | [Link][12]    | [Link][13]                | [Link][14] | [Link][15]      |
 
 [inkscape]: https://inkscape.org/
+
 [1]: circle.400dpi.png
 [2]: circle.1200dpi.png
 [3]: circle.inkscape.svg

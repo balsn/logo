@@ -1,8 +1,9 @@
 # Balsn Logo
 
 ## Download
+[2020 Update] We use new logo [Multicolor version][16] and [Monochrome version][17]
 
-We use [Black 1200 DPI PNG][2] version as our default logo. If you are going to use non-PNG file, please install the font [Audiowide][audiowide] first.
+We used [Black 1200 DPI PNG][2] version as our default logo. If you are going to use non-PNG file, please install the font [Audiowide][audiowide] first.
 
 | Background   | 400 DPI PNG | 1200 DPI PNG | PDF | [Inkscape][inkscape] SVG | SVG       | PostScript EPS |
 | ------------ | ----------- | ------------ | ------------------------ | --------- | -------------- | -------------- |
@@ -30,3 +31,5 @@ We use [Black 1200 DPI PNG][2] version as our default logo. If you are going to 
 [13]: transparent.inkscape.svg?raw=true
 [14]: transparent.plain.svg?raw=true
 [15]: transparent.inkscape.eps?raw=true
+[16]: Balsn_color.jpg?raw=true
+[17]: Balsn_white.jpg?raw=true
